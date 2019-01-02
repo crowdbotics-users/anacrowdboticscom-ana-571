@@ -1,0 +1,3 @@
+rootProject.name = 'anacrowdboticscom_ana_571'
+
+include ':app'
